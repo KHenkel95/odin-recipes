@@ -5,6 +5,14 @@ body{
 
 .main-title{
     color: blue;
+    margin: 5px;
+    padding: 8px;
+    text-align: center;
+}
+
+.main-paragraph{
+    padding: 8px;
+    font-size: 20px;
 }
 
 a:link{
