@@ -34,4 +34,5 @@ h2{
 
 .recipe-image{
     margin: 10px;
+    display: inline-block;
 }
