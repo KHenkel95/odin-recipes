@@ -46,20 +46,23 @@ h2{
 .recipe-description{
     display: inline-block;
     width: 300px;
-    height: 300px;
+    /* height: 300px; */
     padding: 10px;
+    margin: 0 auto;
 }
 
 .recipe-ingredients{
     display: inline-block;
     width: 300px;
-    height: 300px;
+    /* height: 300px; */
     padding: 10px;
+    margin: 0 auto;
 }
 
 .recipe-steps{
     display: inline-block;
     width: 300px;
-    height: 300px;
+    /* height: 300px; */
     padding: 10px;
+    margin: 0 auto;
 }
